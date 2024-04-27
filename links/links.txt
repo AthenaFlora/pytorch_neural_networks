@@ -1,0 +1,15 @@
+MNIST Fashion:
+https://www.kaggle.com/code/pankajj/fashion-mnist-with-pytorch-93-accuracy
+
+News Classification:
+https://www.kaggle.com/datasets/khoshbayani/news-texts
+
+Sensor Data:
+https://www.kaggle.com/datasets/mexwell/binary-classification-for-sensor-signals/data
+
+Housing Data:
+https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
+
+Credit Card:
+https://www.kaggle.com/search?q=credit+card
+https://www.youtube.com/watch?v=M_Cu7r9gik4
